@@ -1,9 +1,9 @@
 # Define Dependenices and Setup
 from bs4 import BeautifulSoup as bs
-import requests
 from splinter import Browser
 from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
+import requests
 import time
 
 # Scrape function
